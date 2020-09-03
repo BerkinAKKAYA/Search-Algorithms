@@ -13,7 +13,7 @@ I implemented some search and sort algorithms to unity and visualized them.
 * Exponential
 * Ternary
 
-[See the code][SearchingAlgorithms]
+[Implementation of Searching Algoritmhs][SearchingAlgorithms]
 
 ### Sorting Algoritmhs Implemented
 * Selection
@@ -21,7 +21,7 @@ I implemented some search and sort algorithms to unity and visualized them.
 * Insertion
 * Merge
 
-[See the code][SortingAlgorithms]
+[Implementation of Sorting Algoritmhs][SortingAlgorithms]
 
 
 [SearchingAlgorithms]: https://github.com/BerkinAKKAYA/Search-Algorithms/blob/master/Assets/Scripts/SearchAlgorithms.cs

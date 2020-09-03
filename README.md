@@ -13,8 +13,16 @@ I implemented some search and sort algorithms to unity and visualized them.
 * Exponential
 * Ternary
 
+[See the code][SearchingAlgorithms]
+
 ### Sorting Algoritmhs Implemented
 * Selection
 * Bubble
 * Insertion
 * Merge
+
+[See the code][SortingAlgorithms]
+
+
+[SearchingAlgorithms]: https://github.com/BerkinAKKAYA/Search-Algorithms/blob/master/Assets/Scripts/SearchAlgorithms.cs
+[SortingAlgorithms]: https://github.com/BerkinAKKAYA/Search-Algorithms/blob/master/Assets/Scripts/SortAlgorithms.cs
